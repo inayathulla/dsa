@@ -1,3 +1,4 @@
+package arrays;
 
 public class PrintExtremes {
     public static void main(String[] args) {

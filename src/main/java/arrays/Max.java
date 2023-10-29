@@ -1,3 +1,5 @@
+package arrays;
+
 public class Max {
     public static void main(String[] args) {
 
