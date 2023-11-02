@@ -5,7 +5,7 @@ import java.util.Vector;
 public class Intersection {
     public static void main(String[] args) {
         int[] arr = {1, 5, 5, 10, 15, 20};
-        int[] brr = {5, 5, 15, 50, 100};
+        int[] brr = {5,  15, 50, 100};
         Vector<Integer> vector = new Vector<>();
 
         for (int i = 0; i < arr.length; i++) {
