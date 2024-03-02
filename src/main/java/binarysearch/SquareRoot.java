@@ -5,6 +5,9 @@ public class SquareRoot {
         int left = 0;
         int right = x;
 
+        if (x == 0 || x == 1) {
+            return x;
+        }
         while(left <= right){
             int mid = left + (right - left)/2;
 
