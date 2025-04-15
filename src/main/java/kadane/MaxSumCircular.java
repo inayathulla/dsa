@@ -8,6 +8,7 @@ import java.util.Arrays;
  * 8/150, LC 918
  */
 public class MaxSumCircular {
+    // TODO Optimize in one for loop
     public static void main(String[] args) {
         int[] nums = {13, -1, 3, -4, -10};
         System.out.println(maxSubarraySumCircular(nums));
